@@ -1,22 +1,22 @@
-<p align="center">
-  <img src="images/store-logo.webp" height="128">
-  <h1 align="center">Raycast Extensions</h1>
-</p>
+<p 对齐="居中">
+  <img src="images/store-logo.webp" 高度="128">
+  
+</段>
 
-<p align="center">
-  <a aria-label="Follow Raycast on X" href="https://x.com/raycast">
+<p 对齐="居中">
+  <a aria-label="关注 Raycast 在 X 上" href="https://x.com/raycast">
     <img alt="" src="https://img.shields.io/badge/Follow%20@raycast-black.svg?style=for-the-badge&logo=X">
-  </a>
-  <a aria-label="Join the community on Slack" href="https://raycast.com/community">
+  </一个>
+  <a aria-label="加入 Slack 社区" href="https://raycast.com/community">
     <img alt="" src="https://img.shields.io/badge/Join%20the%20community-black.svg?style=for-the-badge&logo=Slack">
-  </a>
-</p>
+  </一个>
+</段>
 
-[Raycast](https://raycast.com/) lets you control your tools with a few keystrokes. This repository contains all extensions that are available in the [Raycast Store](https://raycast.com/store). It also includes documentation and examples of how to extend Raycast using React.
+[Raycast](https://raycast.com/) 让你通过几下按键来控制你的工具。这个仓库包含了在[Raycast Store](https://raycast.com/store)中可用的所有扩展。它还包括使用React扩展Raycast的文档和示例。
 
-![Header](images/header.webp)
+![标题](images/header.webp)
 
-## Getting Started
+## 入门指南
 
 Visit [https://developers.raycast.com](https://developers.raycast.com) to get started with our API. If you want to discover and install extensions, check out [our Store](https://raycast.com/store).
 
@@ -24,8 +24,9 @@ Be sure to read and follow our [Community](https://manual.raycast.com/community-
 
 ## Feedback
 
-Raycast wouldn't be where it is without the feedback from our community, so we would be happy to hear what you think of the API / DevX and how we can improve. Please use [GitHub issues](https://github.com/raycast/extensions/issues/new/choose) for everything API related (bugs, improvements suggestions, developer experience, docs, etc). We have a few [templates](https://developers.raycast.com/examples) that should help you get started.
+Raycast无法在没有我们社区反馈的情况下达到今天的位置，因此我们很高兴听到您对API / DevX的看法以及我们如何改进。请使用[GitHub issues](https://github.com/raycast/extensions/issues/new/choose)来反馈所有与API相关的问题（错误、改进建议、开发者体验、文档等）。我们有一些[模板](https://developers.raycast.com/examples)可以帮助您开始。
 
-## Community
+## 社区
 
-Join our [Slack community](https://raycast.com/community) to share your extension, debug nasty bugs or simply get to know like-minded folks.
+加入我们的[Slack社区](https://raycast.com/community)，分享你的扩展，调试讨厌的错误，或者只是认识一些志同道合的人。
+[![由DartNode提供支持](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com"由DartNode提供支持 - 为开源提供免费VPS")  
